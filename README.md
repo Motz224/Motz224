@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Motz224
-- 👀 I’m interested in ... Math, Physics, Chemistry, C++, Python, JavaScript, Japanese
-- 🌱 I’m currently learning ... Math, Physics, Chemistry, Python, Japanese
-- 💞️ I’m looking to collaborate on ... Learning
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Gmail: kwong9841@gmail.com | Discord: Motz224#2062
 
 <!---
